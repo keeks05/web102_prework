@@ -20,6 +20,8 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 ![](https://github.com/keeks05/web102_prework/blob/main/ezgif-2-f737aa34e9.gif)
+![](https://github.com/keeks05/web102_prework/blob/main/Screen_Recording_2023-01-28_at_11_28_15_PM_AdobeExpress.gif)
+![](https://github.com/keeks05/web102_prework/blob/main/Screen_Recording_2023-01-28_at_11_33_20_PM_AdobeExpress.gif)
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 [Kap](https://getkap.co/) for macOS
